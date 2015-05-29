@@ -1,0 +1,8 @@
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\bin\Debug\iOSCrash.dll
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\bin\Debug\iOSCrash.pdb
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\obj\Debug\iOSCrash.dll
+c:\users\bettridge_lee\documents\visual studio 2013\Projects\iOSCrash\iOSCrash\iOSCrash\obj\Debug\iOSCrash.pdb
